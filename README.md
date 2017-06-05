@@ -1,8 +1,5 @@
 # pom-explorer
 
-[![stability status](https://www.meterian.com/badge/gh/meterianhq/pom-explorer/stability)](https://www.meterian.com/report/gh/meterianhq/pom-explorer)
-[![security status](https://www.meterian.com/badge/gh/meterianhq/pom-explorer/security)](https://www.meterian.com/report/gh/meterianhq/pom-explorer)
-
 The Maven's swiss knife
 
 ## Description
